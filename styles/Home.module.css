@@ -5,11 +5,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to bottom, #97a7ac, #00BFFF);
+  background: linear-gradient(to bottom, #62bfdb, #00BFFF);
 }
 
 .title a {
-  color: #46597f;
+  color: #98b8b8;
   text-decoration: none;
 }
 
