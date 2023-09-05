@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: linear-gradient(to bottom, #ADD8E6, #00BFFF);
 }
 
 .title a {
